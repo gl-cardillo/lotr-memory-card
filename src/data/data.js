@@ -11,11 +11,12 @@ import sam from "../img/sam.webp";
 import saruman from "../img/saruman.jpeg";
 import sauron from "../img/sauron.webp";
 
-function createImage(src, title) {
+function createImage(src, title, id) {
   let img = new Image();
   img.src = src;
   img.title = title;
   img.alt = title;
+  img.id = id
   return img
 }
 

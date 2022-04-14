@@ -1,3 +1,18 @@
+# Lord of the ring memory card game project
+
+<br/>
+
+## Description:
+---
+This is a memory card game in the lord of the ring theme, the user wins by clicking all the images once, if an image is been clicked twice the score is set back to 0 
+
+<br/>
+
+## Link
+---
+Check the [demo]( https://gl-cardillo.github.io/lotr-memory-card/) 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

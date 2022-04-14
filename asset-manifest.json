@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lotr-memory-card/static/css/main.45eff104.css",
+    "main.js": "/lotr-memory-card/static/js/main.5773273f.js",
+    "static/js/787.5052d231.chunk.js": "/lotr-memory-card/static/js/787.5052d231.chunk.js",
+    "static/media/galadriel.webp": "/lotr-memory-card/static/media/galadriel.1a13073ed26f5e9d36a9.webp",
+    "static/media/frodo.jpg": "/lotr-memory-card/static/media/frodo.df1661d026800c92c53b.jpg",
+    "static/media/gandalf.webp": "/lotr-memory-card/static/media/gandalf.2404bd06ea983475d690.webp",
+    "static/media/sam.webp": "/lotr-memory-card/static/media/sam.3730bfdc7c1298b2be1b.webp",
+    "static/media/lotr-mc.png": "/lotr-memory-card/static/media/lotr-mc.95235766a1ec7765de41.png",
+    "static/media/arwen.jpg": "/lotr-memory-card/static/media/arwen.0d0b38dbf0c352dcb9bf.jpg",
+    "static/media/gollum.jpg": "/lotr-memory-card/static/media/gollum.6dc82752bfa25c0952b8.jpg",
+    "static/media/legolas.webp": "/lotr-memory-card/static/media/legolas.9ce318a4f9cd19505811.webp",
+    "static/media/gimli.webp": "/lotr-memory-card/static/media/gimli.5c4510cedd4661c06283.webp",
+    "static/media/sauron.webp": "/lotr-memory-card/static/media/sauron.f882c00e910e301bfa7c.webp",
+    "index.html": "/lotr-memory-card/index.html",
+    "main.45eff104.css.map": "/lotr-memory-card/static/css/main.45eff104.css.map",
+    "main.5773273f.js.map": "/lotr-memory-card/static/js/main.5773273f.js.map",
+    "787.5052d231.chunk.js.map": "/lotr-memory-card/static/js/787.5052d231.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45eff104.css",
+    "static/js/main.5773273f.js"
+  ]
+}
